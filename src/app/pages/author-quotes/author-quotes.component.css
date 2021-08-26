@@ -1,0 +1,47 @@
+:host {
+  width: 90%;
+  height: 100vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 10% 1fr 5%;
+}
+
+h1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #333333;
+  margin-bottom: 90px;
+}
+
+.quotes-container {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 767.98px) {
+  .quotes-container {
+    width: 95%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .quotes-container {
+    width: 90%;
+  }
+}
+
+.quote {
+  border-left: 8px solid #F7DF94;
+  padding-left: 40px;
+  margin-bottom: 40px;
+
+
+}
+
+
