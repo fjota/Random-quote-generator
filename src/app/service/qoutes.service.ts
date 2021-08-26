@@ -18,7 +18,7 @@ export class QoutesService {
   }
 
   getAuthorQuotes(author: string): Observable<QuotesResponse> {
-    const params = new HttpParams( { fromString: `author${author}` } )
+    const params = new HttpParams( { fromString: `author=${author}` } )
 
     return this.http.get<QuotesResponse>(`${this.urlApi}quotes`, { params })
   }
