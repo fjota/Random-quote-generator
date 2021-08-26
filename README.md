@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://fjota.github.io/Random-quote-generator/">
+    <a href="https://hopeful-mirzakhani-16087b.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -70,5 +70,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/fjota)
-- Twitter [@your-twitter](https://twitter.com/Frzjosue)
+- GitHub [@fjota](https://github.com/fjota)
+- Twitter [@Frzjosue](https://twitter.com/Frzjosue)
