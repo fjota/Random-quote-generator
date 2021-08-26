@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/fjota/Random-quote-generator.git">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/fjota/Random-quote-generator/main/src/assets/demo.png)
 
 ### Built With
 
@@ -59,7 +59,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Angu
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/fjota/Random-quote-generator.git
 
 # Install dependencies
 $ npm install
