@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://fjota.github.io/Random-quote-generator/">
       Demo
     </a>
     <span> | </span>
